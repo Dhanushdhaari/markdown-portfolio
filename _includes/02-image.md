@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Dhanushdhaari XP welcomes to a repo-learn ](https://octodex.github.com/images/OctoAsians_dex_Full.png)
